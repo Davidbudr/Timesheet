@@ -1,0 +1,10 @@
+.toggleGroup{
+    flex: 0 0 1.5rem;
+    display:flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin: auto;
+    max-width: 500px;
+}

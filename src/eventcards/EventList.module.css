@@ -1,0 +1,17 @@
+.group{
+    flex: 1 1 500px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid var(--color-1);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow: auto;
+    max-height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: stretch;
+    justify-content: flex-start;
+    gap: 1rem;
+    max-width: 500px;
+    margin: auto;
+}

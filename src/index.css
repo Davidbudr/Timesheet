@@ -1,0 +1,23 @@
+:root{
+  --color-1: #150485;
+  --color-2: #590995;
+  --color-3: #C62A88;
+  --color-4: #03C4A1;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+.action{
+    background: var(--color-1);
+    color: white;
+    padding: 0.5rem 1rem;
+    border: 0;
+    border-radius: 5px;
+    cursor:pointer;
+}
+.action:hover{
+    background: var(--color-4);
+}

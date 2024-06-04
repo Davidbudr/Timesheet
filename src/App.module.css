@@ -1,0 +1,11 @@
+.fullscreen{
+    display:flex;
+    flex-flow: column nowrap;
+    max-width: 532px;
+    margin: auto;
+    align-items: center;
+    height: 100vh;
+    box-sizing:border-box;
+    gap: 1rem;
+    padding: 1rem 1rem;
+}
